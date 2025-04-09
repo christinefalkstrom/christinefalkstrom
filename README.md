@@ -1,4 +1,5 @@
 # Hello, I'm Christine Falkstrom, welcome to my README page!
+![LHS Wildcat Image]
 
 (https://github.com/christinefalkstrom/christinefalkstrom/blob/main/assets/wildcat.jpeg)
 I teach at **Libertyville High School**
