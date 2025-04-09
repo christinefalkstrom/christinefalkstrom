@@ -2,6 +2,7 @@
 ![LHS Wildcat Image]
 
 (https://github.com/christinefalkstrom/christinefalkstrom/blob/main/assets/wildcat.jpeg)
+
 I teach at **Libertyville High School**
 
 Yellow Sony Walkman 1985
